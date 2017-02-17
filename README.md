@@ -4,3 +4,4 @@
 * div+css布局
 * 兼容IE8+和Chrome
 * 首页效果图
+![](http://i.imgur.com/EUSf3dK.png)
